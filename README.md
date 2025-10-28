@@ -1,16 +1,9 @@
-<!--
-README Template with GIF Hero
-- Replace placeholders like YOUR_NAME, YOUR_HANDLE, and links.
-- Put your GIF at docs/hero.gif (or change the path below).
-- Keep the top section compact so it looks great on profile and repos.
--->
-
 <div align="center">
 
 # Aidan Ream
 
 <!-- Hero GIF: store in your repo, e.g., docs/hero.gif -->
-<img src="docs/hero.gif" alt="3D/Project preview" width="800" />
+<img src="docs/roma.gif" alt="3D/Project" width="800" />
 
 </div>
 
@@ -30,19 +23,24 @@ README Template with GIF Hero
 - **Project Two** — Quick value prop or result. [[repo]](https://github.com/YOUR_HANDLE/PROJECT_TWO)
 - **Project Three** — One-liner, keep scannable. [[repo]](https://github.com/YOUR_HANDLE/PROJECT_THREE)
 
-## Tech
+## Languages
 
-`typescript` · `react` · `node` · `blender` · `maya` · `unity` · `opengl` · `vulkan` 
+`java` · `python` · `c++` `javascript` · `react` 
 
-> Tip: keep this list short. You can expand details in a pinned repo or portfolio page.
+## Software 
 
-## Get in touch
+ `blender` · `maya` · `photoshop` · `illustrator` · `renderdoc` · `meshlab` 
+
+## Libraries and Game Engines
+
+ `nodejs` · `unity` · `opengl` · `vulkan` 
+ 
+## Reach out!
 
 - 📨 Email: aidanream01@gmail.com
 <!--- 🌐 Site: https://your-website.example-->
 - 💼 LinkedIn: https://linkedin.com/in/aidan-ream-076757317/
 
----
 
 ### How to add the GIF at the top
 
