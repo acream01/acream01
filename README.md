@@ -17,12 +17,7 @@
 
 ## Featured work
 
-> Swap in links, repos, or case studies. Include a brief 1–2 line description each.
-
-- **Project One** — What it is, notable tech, and outcome. [[repo]](https://github.com/YOUR_HANDLE/PROJECT_ONE) · [[demo]](https://example.com/demo)
-- **Project Two** — Quick value prop or result. [[repo]](https://github.com/YOUR_HANDLE/PROJECT_TWO)
-- **Project Three** — One-liner, keep scannable. [[repo]](https://github.com/YOUR_HANDLE/PROJECT_THREE)
-
+**PLACEHOLDER**
 ## Languages
 
 `java` · `python` · `c++` `javascript` · `react` 
