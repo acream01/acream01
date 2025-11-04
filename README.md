@@ -1,8 +1,7 @@
 <div align="center">
 
 # Aidan Ream
-
-<!-- Hero GIF: store in your repo, e.g., docs/hero.gif -->
+<!--Graphics Project GIF-->
 <img src="docs/roma.gif" alt="3D/Project" width="800" />
 
 </div>
@@ -34,4 +33,4 @@
 
 - 📨 Email: aidanream01@gmail.com
 <!--- 🌐 Site: https://your-website.example-->
-- 💼 LinkedIn: https://linkedin.com/in/aidan-ream-076757317/
+- 💼 LinkedIn: https://linkedin.com/in/aidan-ream/
